@@ -170,6 +170,11 @@ class DeviceCategory(StrEnum):
 
     https://developer.tuya.com/en/docs/iot/categorydgnbj?id=Kaiuz3yorvzg3
     """
+    ZNWNSXJ = "znwnsxj"
+    """Secure-Baby-camera
+
+    new ID device
+    """    
     DJ = "dj"
     """Light
 
